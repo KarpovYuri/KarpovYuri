@@ -21,4 +21,6 @@
 
 
 ### :trophy: Моя статистика:
-[![Codewarrior Profile Badges](https://www.codewars.com/users/Comediant24/badges/large)](https://www.codewars.com/users/Comediant24)
+[![Codewarrior Profile Badges](https://www.codewars.com/users/Yurick/badges/large)](https://www.codewars.com/users/Yurick)
+
+[![codewars](https://www.codewars.com/users/Yurick/badges/small)](https://www.codewars.com/users/Yurick)
