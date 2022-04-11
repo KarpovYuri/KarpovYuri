@@ -25,7 +25,7 @@
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=Yurick78&hide=contribs&show_icons=true">
-  <img  align="left" height="139" style="margin-right: 15px" src="https://github-readme-stats.vercel.app/api?username=Yurick78&hide=contribs&show_icons=true&theme=react" />
+  <img  align="left" height="139" style="margin-right: 20px" src="https://github-readme-stats.vercel.app/api?username=Yurick78&hide=contribs&show_icons=true&theme=react" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurick78&layout=compact">
   <img align="left" height="139" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurick78&layout=compact&theme=react" />
