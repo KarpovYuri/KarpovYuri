@@ -19,7 +19,8 @@
 ![Git](https://img.shields.io/badge/git-0d1117?style=for-the-badge&logo=git)
 ![Visual Studio Code](https://img.shields.io/badge/VScode-0d1117?style=for-the-badge&logo=visual-studio-code)
 
-<br>
+<br />
+
 ### Моя статистика:
 [![Codewarrior Profile Badges](https://www.codewars.com/users/Yurick/badges/large)](https://www.codewars.com/users/Yurick)
 
