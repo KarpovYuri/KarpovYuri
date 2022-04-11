@@ -20,7 +20,5 @@
 ![Visual Studio Code](https://img.shields.io/badge/VScode-0d1117?style=for-the-badge&logo=visual-studio-code)
 
 
-### :trophy: Моя статистика:
+### Моя статистика:
 [![Codewarrior Profile Badges](https://www.codewars.com/users/Yurick/badges/large)](https://www.codewars.com/users/Yurick)
-
-[![codewars](https://www.codewars.com/users/Yurick/badges/small)](https://www.codewars.com/users/Yurick)
