@@ -8,7 +8,7 @@
 - 🔞 Хочу работать с опытными коллегами
 
 ### Используемые языки и технологии: 
-![HTML](https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5)
+![HTML5](https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3)
 ![Javascript](https://img.shields.io/badge/-Javascript-0d1117?style=for-the-badge&logo=Javascript)
 ![SASS](https://img.shields.io/badge/-SASS-0d1117?style=for-the-badge&logo=sass)
