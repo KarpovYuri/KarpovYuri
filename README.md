@@ -33,8 +33,10 @@
 </a>
 </div>
 
+<br>
+
 ### Контакты:
-### 📧 Почта: qtrixnet@yandex.ru
+### 📧 Почта: yurick@bk.ru
 ### 🌐 Telegram: @cyril_sv
 
 ![](https://komarev.com/ghpvc/?username=qtrixnet&style=flat-square&color=blueviolet)
