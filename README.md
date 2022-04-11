@@ -32,9 +32,3 @@
   <img align="left" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurick78&layout=compact&theme=react" />
 </a>
 </div>
-
-<div width="100%"></div>
-
-### Контакты:
-### 📧 Почта: yurick@bk.ru
-### 🌐 Telegram: @cyril_sv
