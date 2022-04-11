@@ -1,11 +1,13 @@
 ### Привет всем, меня зовут Юрий 👋
 
+
 ### Приоритеты:
 - ✍ Стараюсь писать чистый читабельный код
 - 🚀 Осваиваю новые технологии и фреймворки
 - ⏱ Учусь анализировать сложность алгоритмов / улучшать производительность
 - 🎯 Стремлюсь к работе с настоящими боевыми проектами
 - 🔞 Хочу работать с опытными коллегами
+
 
 ### Используемые технологии: 
 ![HTML](https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5)
@@ -16,7 +18,7 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-0d1117?style=for-the-badge&logo=Webpack)
 ![Git](https://img.shields.io/badge/git-0d1117?style=for-the-badge&logo=git)
 ![Visual Studio Code](https://img.shields.io/badge/VScode-0d1117?style=for-the-badge&logo=visual-studio-code)
-![WebStorm](https://img.shields.io/badge/WebStorm-0d1117?style=for-the-badge&logo=webstorm)
+
 
 ### :trophy: Моя статистика:
 [![Codewarrior Profile Badges](https://www.codewars.com/users/Comediant24/badges/large)](https://www.codewars.com/users/Comediant24)
