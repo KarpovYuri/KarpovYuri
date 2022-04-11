@@ -29,6 +29,6 @@
   <img  align="left" height="140" src="https://github-readme-stats.vercel.app/api?username=Yurick78&hide=contribs&show_icons=true&theme=react" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurick78">
-  <img align="left" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurick78&layout=compact&theme=react" />
+  <img align="left" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurick78&layout=compact" />
 </a>
 </div>
