@@ -33,8 +33,6 @@
 </a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=Yurick78&style=flat-square&color=blueviolet)
-
 ### Контакты:
 ### 📧 Почта: yurick@bk.ru
 ### 🌐 Telegram: @cyril_sv
