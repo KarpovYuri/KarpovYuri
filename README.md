@@ -13,13 +13,13 @@
 ![HTML](https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3)
 ![Javascript](https://img.shields.io/badge/-Javascript-0d1117?style=for-the-badge&logo=Javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-0d1117?style=for-the-badge&logo=bootstrap)
+![React](https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=React)
 ![Webpack](https://img.shields.io/badge/-Webpack-0d1117?style=for-the-badge&logo=Webpack)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-0d1117?style=for-the-badge&logo=bootstrap)
 ![Visual Studio Code](https://img.shields.io/badge/VScode-0d1117?style=for-the-badge&logo=visual-studio-code)
 ![Webstorm](https://img.shields.io/badge/Webstorm-0d1117?style=for-the-badge&logo=Webstorm)
-![React](https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=React)
-![Git](https://img.shields.io/badge/git-0d1117?style=for-the-badge&logo=git)
 ![SASS](https://img.shields.io/badge/-SASS-0d1117?style=for-the-badge&logo=sass)
+![Git](https://img.shields.io/badge/git-0d1117?style=for-the-badge&logo=git)
 
 <br>
 
