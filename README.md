@@ -45,6 +45,6 @@
 <a href="https://t.me/Yurick78">
   <img align="left" alt="Карпов Юрий | Телеграм" src="https://raw.githubusercontent.com/Yurick78/Yurick78/master/telegram.svg" />
 </a>
-<a href="https://t.me/Yurick78">
-  <img align="left" alt="Карпов Юрий | Телеграм" src="https://raw.githubusercontent.com/Yurick78/Yurick78/master/email.png" />
+<a href="mailto:yurick@bk.ru">
+  <img align="left" alt="Карпов Юрий | Email" src="https://raw.githubusercontent.com/Yurick78/Yurick78/master/email.png" />
 </a>
