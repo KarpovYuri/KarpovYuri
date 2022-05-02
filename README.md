@@ -9,22 +9,19 @@
 - 🎯 Стремлюсь к работе с настоящими боевыми проектами
 - 🔞 Хочу работать с опытными коллегами
 
-#### Используемые технологии: 
+### Используемые технологии: 
 ![HTML](https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3)
 ![Javascript](https://img.shields.io/badge/-Javascript-0d1117?style=for-the-badge&logo=Javascript)
 ![React](https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=React)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0d1117?style=for-the-badge&logo=bootstrap)
 ![SASS](https://img.shields.io/badge/-SASS-0d1117?style=for-the-badge&logo=sass)
-![Git](https://img.shields.io/badge/git-0d1117?style=for-the-badge&logo=git)
 
 ### Используемые инструменты: 
 ![Webpack](https://img.shields.io/badge/-Webpack-0d1117?style=for-the-badge&logo=Webpack)
 ![Visual Studio Code](https://img.shields.io/badge/VScode-0d1117?style=for-the-badge&logo=visual-studio-code)
 ![Webstorm](https://img.shields.io/badge/Webstorm-0d1117?style=for-the-badge&logo=Webstorm)
 ![Git](https://img.shields.io/badge/git-0d1117?style=for-the-badge&logo=git)
-
-<br>
 
 ### Моя статистика:
 [![Codewarrior Profile Badges](https://www.codewars.com/users/Yurick/badges/large)](https://www.codewars.com/users/Yurick)
