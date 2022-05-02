@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=888888&width=500&height=40&lines=%D0%AF%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%20+frontend+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA)](https://git.io/typing-svg)
 
+<a href="https://twitter.com/anuraghazru">
+  <img align="left" alt="Anurag Hazra | Twitter" src="https://raw.githubusercontent.com/Yurick78/Yurick78/master/telegram.svg" />
+</a>
+
 ### Мои приоритеты:
 - ✍ Стараюсь писать чистый читабельный код
 - 🚀 Осваиваю новые технологии и фреймворки
@@ -40,6 +44,4 @@
 <br>
 <br>
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Anurag Hazra | Twitter" src="https://raw.githubusercontent.com/Yurick78/Yurick78/master/telegram.svg" />
-</a>
+
