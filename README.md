@@ -31,6 +31,7 @@
 [![Codewarrior Profile Badges](https://www.codewars.com/users/Yurick/badges/large)](https://www.codewars.com/users/Yurick)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yurick78&layout=compact)](https://github.com/Yurick78/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <div display="inline-block">
 <a href="https://github-readme-stats.vercel.app/api?username=Yurick78&hide=contribs&show_icons=true&theme=react">
