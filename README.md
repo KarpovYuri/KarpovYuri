@@ -34,12 +34,14 @@
   <img  align="left" height="140" src="https://github-readme-stats.vercel.app/api?username=Yurick78&hide=contribs&show_icons=true&theme=react" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurick78&theme=react&layout=compact">
-  <img align="left" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurick78&layout=compact&theme=react" />
+  <img align="center" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurick78&layout=compact&theme=react" />
 </a>
+
+### 🌐 Telegram: @Yurick78
 
 <a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy"/>
 </a>
 
 
-### 🌐 Telegram: @Yurick78
+
