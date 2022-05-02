@@ -37,6 +37,8 @@
   <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurick78&layout=compact&theme=react" />
 </a>
 
+<br>
+
 ### Мои контакты:
 🌐 Telegram: @Yurick78
 
