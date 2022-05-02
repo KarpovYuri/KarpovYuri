@@ -31,10 +31,10 @@
 [![Codewarrior Profile Badges](https://www.codewars.com/users/Yurick/badges/large)](https://www.codewars.com/users/Yurick)
 
 <a href="https://github-readme-stats.vercel.app/api?username=Yurick78&show_icons=true&include_all_commits=true&theme=react">
-  <img  align="left" height="160" src="https://github-readme-stats.vercel.app/api?username=Yurick78&show_icons=true&include_all_commits=true&theme=react&card_width=400" />
+  <img  align="left" height="160" src="https://github-readme-stats.vercel.app/api?username=Yurick78&show_icons=true&include_all_commits=true&theme=react" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurick78&layout=compact&theme=react">
-  <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurick78&layout=compact&theme=react" />
+  <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurick78&layout=compact&theme=react&card_width=406" />
 </a>
 
 ### 🌐 Telegram: @Yurick78
