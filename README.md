@@ -11,8 +11,6 @@
 
 <br>
 
-### Мой телеграм: 🚀 Yrick78
-
 ### Мой стек: 
 ![HTML](https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3)
@@ -40,3 +38,7 @@
   <img align="left" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurick78&layout=compact&theme=react" />
 </a>
 </div>
+
+### Контакты:
+### 📧 Почта: qtrixnet@yandex.ru
+### 🌐 Telegram: @cyril_sv
