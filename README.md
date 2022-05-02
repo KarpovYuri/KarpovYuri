@@ -13,7 +13,7 @@
 
 ### Мой стек: 
 ![HTML](https://img.shields.io/badge/-HTML-20232a?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3)
+![CSS](https://img.shields.io/badge/-CSS-ffffff?style=for-the-badge&logo=css3)
 ![Javascript](https://img.shields.io/badge/-Javascript-0d1117?style=for-the-badge&logo=Javascript)
 ![React](https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=React)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0d1117?style=for-the-badge&logo=bootstrap)
