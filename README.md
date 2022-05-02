@@ -42,6 +42,6 @@
 
 ### Мои контакты:
 
-<a href="https://t.me/Yurick78">
+<a href="https://t.me/Yurick78" target="_blank">
   <img align="left" alt="Карпов Юрий | Телеграм" src="https://raw.githubusercontent.com/Yurick78/Yurick78/master/telegram.svg" />
 </a>
