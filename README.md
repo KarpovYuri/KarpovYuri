@@ -30,7 +30,7 @@
 ### Моя статистика:
 [![Codewarrior Profile Badges](https://www.codewars.com/users/Yurick/badges/large)](https://www.codewars.com/users/Yurick)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yurick78&layout=compact&theme=react&card_height=240)](https://github.com/Yurick78/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yurick78&layout=compact&theme=react)](https://github.com/Yurick78/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github-readme-stats.vercel.app/api?username=Yurick78&hide=contribs&show_icons=true&theme=react">
