@@ -39,10 +39,11 @@
 
 <br>
 <br>
+<br>
 
-<a href="https://t.me/Yurick78">
-  <img align="right" alt="Карпов Юрий | Телеграм" src="https://raw.githubusercontent.com/Yurick78/Yurick78/master/telegram.svg" />
-</a>
 <a href="mailto:yurick@bk.ru">
   <img align="right" alt="Карпов Юрий | Email" src="https://raw.githubusercontent.com/Yurick78/Yurick78/master/email.png" />
+</a>
+<a href="https://t.me/Yurick78">
+  <img align="right" alt="Карпов Юрий | Телеграм" src="https://raw.githubusercontent.com/Yurick78/Yurick78/master/telegram.svg" />
 </a>
