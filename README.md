@@ -12,20 +12,20 @@
 <br>
 
 ### Мой стек: 
-![HTML](https://img.shields.io/badge/-HTML-20232a?style=for-the-badge&logo=html5&logoColor=61d9fa)
-![CSS](https://img.shields.io/badge/-CSS-20232a?style=for-the-badge&logo=css3&logoColor=61d9fa)
-![Javascript](https://img.shields.io/badge/-Javascript-20232a?style=for-the-badge&logo=Javascript&logoColor=61d9fa)
-![React](https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=React&logoColor=61d9fa)
-![Redux](https://img.shields.io/badge/-Redux-20232a?style=for-the-badge&logo=Redux&logoColor=61d9fa)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-20232a?style=for-the-badge&logo=bootstrap&logoColor=61d9fa)
-![SASS](https://img.shields.io/badge/-SASS-20232a?style=for-the-badge&logo=sass&logoColor=61d9fa)
+![HTML](https://img.shields.io/badge/-HTML-20232a?style=for-the-badge&logo=html5&logoColor=58a6ff)
+![CSS](https://img.shields.io/badge/-CSS-20232a?style=for-the-badge&logo=css3&logoColor=58a6ff)
+![Javascript](https://img.shields.io/badge/-Javascript-20232a?style=for-the-badge&logo=Javascript&logoColor=58a6ff)
+![React](https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=React&logoColor=58a6ff)
+![Redux](https://img.shields.io/badge/-Redux-20232a?style=for-the-badge&logo=Redux&logoColor=58a6ff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-20232a?style=for-the-badge&logo=bootstrap&logoColor=58a6ff)
+![SASS](https://img.shields.io/badge/-SASS-20232a?style=for-the-badge&logo=sass&logoColor=58a6ff)
 
 ### Мои инструменты: 
-![Webpack](https://img.shields.io/badge/-Webpack-20232a?style=for-the-badge&logo=Webpack&logoColor=61d9fa)
-![Git](https://img.shields.io/badge/git-20232a?style=for-the-badge&logo=git&logoColor=61d9fa)
-![Visual Studio Code](https://img.shields.io/badge/VScode-20232a?style=for-the-badge&logo=visual-studio-code&logoColor=61d9fa)
-![Webstorm](https://img.shields.io/badge/Webstorm-20232a?style=for-the-badge&logo=Webstorm&logoColor=61d9fa)
-![Figma](https://img.shields.io/badge/Figma-20232a?style=for-the-badge&logo=Figma&logoColor=61d9fa)
+![Webpack](https://img.shields.io/badge/-Webpack-20232a?style=for-the-badge&logo=Webpack&logoColor=58a6ff)
+![Git](https://img.shields.io/badge/git-20232a?style=for-the-badge&logo=git&logoColor=58a6ff)
+![Visual Studio Code](https://img.shields.io/badge/VScode-20232a?style=for-the-badge&logo=visual-studio-code&logoColor=58a6ff)
+![Webstorm](https://img.shields.io/badge/Webstorm-20232a?style=for-the-badge&logo=Webstorm&logoColor=58a6ff)
+![Figma](https://img.shields.io/badge/Figma-20232a?style=for-the-badge&logo=Figma&logoColor=58a6ff)
 
 <br>
 
