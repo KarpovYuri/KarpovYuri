@@ -34,7 +34,7 @@
   <img  align="left" height="159" src="https://github-readme-stats.vercel.app/api?username=Yurick78&show_icons=true&include_all_commits=true&theme=react" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurick78&layout=compact&theme=react">
-  <img align="center" height="159" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurick78&layout=compact&theme=react" />
+  <img align="center" height="159" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurick78&layout=compact&theme=react&card_width=403" />
 </a>
 
 ### 🌐 Telegram: @Yurick78
