@@ -39,7 +39,6 @@
 </a>
 </div>
 
-<br>
 
-<div>🚀 Yrick78</div>
+<div width="100%">🚀 Yrick78</div>
   
