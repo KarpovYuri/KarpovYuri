@@ -19,7 +19,6 @@
 ![Redux](https://img.shields.io/badge/-Redux-20232a?style=for-the-badge&logo=Redux)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-20232a?style=for-the-badge&logo=bootstrap)
 ![SASS](https://img.shields.io/badge/-SASS-20232a?style=for-the-badge&logo=sass)
-![SCSS](https://img.shields.io/badge/-SCSS-20232a?style=for-the-badge&logo=Scss)
 
 ### Мои инструменты: 
 ![Webpack](https://img.shields.io/badge/-Webpack-20232a?style=for-the-badge&logo=Webpack)
