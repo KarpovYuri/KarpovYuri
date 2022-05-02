@@ -40,6 +40,8 @@
 <br>
 <br>
 
+### Мой телеграм:
+
 <a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" src="https://raw.githubusercontent.com/Yurick78/Yurick78/master/telegram.svg" />
+  <img align="left" alt="Anurag Hazra | Twitter" src="https://raw.githubusercontent.com/Yurick78/Yurick78/master/telegram.svg" />
 </a>
