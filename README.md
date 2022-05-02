@@ -30,14 +30,12 @@
 ### Моя статистика:
 [![Codewarrior Profile Badges](https://www.codewars.com/users/Yurick/badges/large)](https://www.codewars.com/users/Yurick)
 
-<div>
 <a href="https://github-readme-stats.vercel.app/api?username=Yurick78&hide=contribs&show_icons=true">
   <img  align="left" height="140" src="https://github-readme-stats.vercel.app/api?username=Yurick78&hide=contribs&show_icons=true&theme=react" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurick78">
   <img align="left" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurick78&layout=compact&theme=react" />
 </a>
-</div>
 
 ### Контакты:
 ### 📧 Почта: qtrixnet@yandex.ru
