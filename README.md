@@ -41,4 +41,4 @@
 <br>
 
 ### Мои контакты:
-<img align="left" alt="Anurag Hazra | Twitter" width="32px" src="https://raw.githubusercontent.com/Yurick78/Yurick78/master/telegram.svg" />@Yurick78
+<img align="left" alt="Anurag Hazra | Twitter" src="https://raw.githubusercontent.com/Yurick78/Yurick78/master/telegram.svg" />@Yurick78
