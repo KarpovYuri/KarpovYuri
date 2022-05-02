@@ -37,8 +37,6 @@
   <img align="left" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurick78&layout=compact&theme=react" />
 </a>
 
-<br>
-
-### Контакты:
+<p width="100%">Контакты:</p>
 ### 📧 Почта: qtrixnet@yandex.ru
 ### 🌐 Telegram: @cyril_sv
