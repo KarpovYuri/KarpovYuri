@@ -13,17 +13,17 @@
 
 ### Мой стек: 
 ![HTML](https://img.shields.io/badge/-HTML-20232a?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-ffffff?style=for-the-badge&logo=css3)
-![Javascript](https://img.shields.io/badge/-Javascript-0d1117?style=for-the-badge&logo=Javascript)
-![React](https://img.shields.io/badge/-React-0d1117?style=for-the-badge&logo=React)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-0d1117?style=for-the-badge&logo=bootstrap)
-![SASS](https://img.shields.io/badge/-SASS-0d1117?style=for-the-badge&logo=sass)
+![CSS](https://img.shields.io/badge/-CSS-20232a?style=for-the-badge&logo=css3)
+![Javascript](https://img.shields.io/badge/-Javascript-20232a?style=for-the-badge&logo=Javascript)
+![React](https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=React)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-20232a?style=for-the-badge&logo=bootstrap)
+![SASS](https://img.shields.io/badge/-SASS-20232a?style=for-the-badge&logo=sass)
 
 ### Мои инструменты: 
-![Webpack](https://img.shields.io/badge/-Webpack-0d1117?style=for-the-badge&logo=Webpack)
-![Git](https://img.shields.io/badge/git-0d1117?style=for-the-badge&logo=git)
-![Visual Studio Code](https://img.shields.io/badge/VScode-0d1117?style=for-the-badge&logo=visual-studio-code)
-![Webstorm](https://img.shields.io/badge/Webstorm-0d1117?style=for-the-badge&logo=Webstorm)
+![Webpack](https://img.shields.io/badge/-Webpack-20232a?style=for-the-badge&logo=Webpack)
+![Git](https://img.shields.io/badge/git-20232a?style=for-the-badge&logo=git)
+![Visual Studio Code](https://img.shields.io/badge/VScode-20232a?style=for-the-badge&logo=visual-studio-code)
+![Webstorm](https://img.shields.io/badge/Webstorm-20232a?style=for-the-badge&logo=Webstorm)
 
 <br>
 
