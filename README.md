@@ -41,5 +41,5 @@
 <br>
 
 <a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="left" alt="Anurag Hazra | Twitter" src="https://raw.githubusercontent.com/Yurick78/Yurick78/master/telegram.svg" />
 </a>
