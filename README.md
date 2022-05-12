@@ -31,7 +31,7 @@
 ### Моя статистика:
 [![Codewarrior Profile Badges](https://www.codewars.com/users/Yurick/badges/large)](https://www.codewars.com/users/Yurick)
 
-<a href="https://github-readme-stats.vercel.app/api?username=Yurick78&show_icons=true&include_all_commits=true&theme=react&hide_border=true">
+<a href="https://github-readme-stats.vercel.app/api?username=Yurick78&show_icons=true&theme=react&hide_border=true">
   <img  align="center" height="167" src="https://github-readme-stats.vercel.app/api?username=Yurick78&show_icons=true&include_all_commits=true&theme=react&hide_border=true" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurick78&layout=compact&theme=react&hide_border=true">
