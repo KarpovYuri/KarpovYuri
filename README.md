@@ -32,7 +32,7 @@
 [![Codewarrior Profile Badges](https://www.codewars.com/users/Yurick/badges/large)](https://www.codewars.com/users/Yurick)
 
 <a href="https://github-readme-stats.vercel.app/api?username=Yurick78&show_icons=true&theme=react&hide_border=true">
-  <img  align="center" height="167" src="github-readme-streak-stats.herokuapp.com?username=Yurick78&show_icons=true&include_all_commits=true&theme=react&hide_border=true" />
+  <img  align="center" height="167" src="http://github-readme-streak-stats.herokuapp.com?user=Yurick78&theme=react&hide_border=true&date_format=j%2Fn%5B%2FY%5D"" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurick78&layout=compact&theme=react&hide_border=true">
   <img align="center" height="167" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurick78&layout=compact&theme=react&hide_border=true" />
