@@ -19,7 +19,6 @@
 ![Redux](https://img.shields.io/badge/-Redux-20232a?style=for-the-badge&logo=Redux)
 ![NodeJS](https://img.shields.io/badge/-nodejs-20232a?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-express-20232a?style=for-the-badge&logo=express)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-20232a?style=for-the-badge&logo=bootstrap)
 ![SASS](https://img.shields.io/badge/-SASS-20232a?style=for-the-badge&logo=sass)
 
 ### Мои инструменты: 
