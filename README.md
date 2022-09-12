@@ -35,11 +35,11 @@
 ### Моя статистика:
 [![Codewarrior Profile Badges](https://www.codewars.com/users/Yurick/badges/large)](https://www.codewars.com/users/Yurick)
 
-<a href="https://github-readme-stats.vercel.app/api?username=Yurick78&show_icons=true&hide_border=trueshow_icons=true&theme=react">
-  <img  align="center" height="167" src="https://github-readme-stats.vercel.app/api?username=Yurick78&show_icons=true&hide_border=trueshow_icons=true&theme=react" />
+<a href="https://github-readme-stats.vercel.app/api?username=KarpovYuri&show_icons=true&hide_border=trueshow_icons=true&theme=react">
+  <img  align="center" height="167" src="https://github-readme-stats.vercel.app/api?username=KarpovYuri&show_icons=true&hide_border=trueshow_icons=true&theme=react" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurick78&layout=compact&theme=react&hide_border=true">
-  <img align="center" height="167" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurick78&layout=compact&theme=react&hide_border=true" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=KarpovYuri&layout=compact&theme=react&hide_border=true">
+  <img align="center" height="167" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarpovYuri&layout=compact&theme=react&hide_border=true" />
 </a>
 
 <br>
@@ -47,8 +47,8 @@
 <br>
 
 <a href="mailto:yurick@bk.ru">
-  <img align="right" alt="Карпов Юрий | Email" src="https://raw.githubusercontent.com/Yurick78/Yurick78/master/assets/email.png" />
+  <img align="right" alt="Карпов Юрий | Email" src="https://raw.githubusercontent.com/KarpovYuri/KarpovYuri/master/assets/email.png" />
 </a>
 <a href="https://t.me/karpov_y">
-  <img align="right" alt="Карпов Юрий | Телеграм" src="https://raw.githubusercontent.com/Yurick78/Yurick78/master/assets/telegram.svg" />
+  <img align="right" alt="Карпов Юрий | Телеграм" src="https://raw.githubusercontent.com/KarpovYuri/KarpovYuri/master/assets/telegram.svg" />
 </a>
