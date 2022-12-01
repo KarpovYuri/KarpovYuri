@@ -21,18 +21,15 @@
 ![NodeJS](https://img.shields.io/badge/-nodejs-20232a?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-express-20232a?style=for-the-badge&logo=express)
 ![SASS](https://img.shields.io/badge/-SASS-20232a?style=for-the-badge&logo=sass)
-![SCSS](https://img.shields.io/badge/-SCSS-20232a?style=for-the-badge&logo=scss)
 
 ### Мои инструменты: 
 ![Webpack](https://img.shields.io/badge/-Webpack-20232a?style=for-the-badge&logo=Webpack)
-![Parcel](https://img.shields.io/badge/-Parcel-20232a?style=for-the-badge&logo=Parcel)
 ![Git](https://img.shields.io/badge/git-20232a?style=for-the-badge&logo=git)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-20232a?style=for-the-badge&logo=mongodb)
 ![Postman](https://img.shields.io/badge/-Postman-20232a?style=for-the-badge&logo=postman)
 ![Visual Studio Code](https://img.shields.io/badge/VScode-20232a?style=for-the-badge&logo=visual-studio-code)
 ![Webstorm](https://img.shields.io/badge/Webstorm-20232a?style=for-the-badge&logo=Webstorm)
 ![Figma](https://img.shields.io/badge/Figma-20232a?style=for-the-badge&logo=Figma)
-![Handlebars](https://img.shields.io/badge/Handlebars-20232a?style=for-the-badge&logo=Handlebars)
 
 <br>
 
