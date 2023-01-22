@@ -30,6 +30,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/VScode-20232a?style=for-the-badge&logo=visual-studio-code)
 ![Webstorm](https://img.shields.io/badge/Webstorm-20232a?style=for-the-badge&logo=Webstorm)
 ![Figma](https://img.shields.io/badge/Figma-20232a?style=for-the-badge&logo=Figma)
+![Docker](https://img.shields.io/badge/Docker-20232a?style=for-the-badge&logo=Docker)
 
 <br>
 
