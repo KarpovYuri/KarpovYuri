@@ -30,7 +30,6 @@
 ![Docker](https://img.shields.io/badge/Docker-20232a?style=for-the-badge&logo=Docker)
 ![Nginx](https://img.shields.io/badge/nginx-20232a?style=for-the-badge&logo=nginx)
 ![Jest](https://img.shields.io/badge/-jest-20232a?style=for-the-badge&logo=jest)
-![Mocha](https://img.shields.io/badge/-mocha-20232a?style=for-the-badge&logo=mocha)
 
 ### Мои инструменты:
 
@@ -39,7 +38,6 @@
 ![Git](https://img.shields.io/badge/git-20232a?style=for-the-badge&logo=git)
 ![NPM](https://img.shields.io/badge/NPM-20232a?style=for-the-badge&logo=npm)
 ![Yarn](https://img.shields.io/badge/yarn-20232a?style=for-the-badge&logo=yarn)
-![Strapi](https://img.shields.io/badge/strapi-20232a?style=for-the-badge&logo=strapi)
 ![Postman](https://img.shields.io/badge/-Postman-20232a?style=for-the-badge&logo=postman)
 ![Visual Studio Code](https://img.shields.io/badge/VScode-20232a?style=for-the-badge&logo=visual-studio-code)
 ![Webstorm](https://img.shields.io/badge/Webstorm-20232a?style=for-the-badge&logo=Webstorm)
