@@ -49,8 +49,6 @@
 
 ### Моя статистика:
 
-[![Codewarrior Profile Badges](https://www.codewars.com/users/Yurick/badges/large)](https://www.codewars.com/users/Yurick)
-
 <a href="https://github-readme-stats.vercel.app/api?username=KarpovYuri&show_icons=true&hide_border=trueshow_icons=true&theme=react">
   <img  align="center" height="167" src="https://github-readme-stats.vercel.app/api?username=KarpovYuri&show_icons=true&hide_border=trueshow_icons=true&theme=react" />
 </a>
