@@ -21,7 +21,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-20232a?style=for-the-badge&logo=TypeScript)
 ![Angular](https://img.shields.io/badge/angular-20232a?style=for-the-badge&logo=angular)
 ![React](https://img.shields.io/badge/-React-20232a?style=for-the-badge&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-20232a?style=for-the-badge&logo=Redux)
 ![Vue](https://img.shields.io/badge/vue-20232a?style=for-the-badge&logo=vuedotjs)
 ![Nuxtjs](https://img.shields.io/badge/Nuxt-20232a?style=for-the-badge&logo=nuxtdotjs)
 ![NodeJS](https://img.shields.io/badge/-node-20232a?style=for-the-badge&logo=node.js)
