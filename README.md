@@ -41,7 +41,6 @@
 ![Webstorm](https://img.shields.io/badge/Webstorm-20232a?style=for-the-badge&logo=Webstorm)
 ![Figma](https://img.shields.io/badge/Figma-20232a?style=for-the-badge&logo=Figma)
 ![Adobe Photoshop](https://img.shields.io/badge/photoshop-20232a?style=for-the-badge&logo=adobe%20photoshop)
-![Adobe Illustrator](https://img.shields.io/badge/illustrator-20232a?style=for-the-badge&logo=adobe%20illustrator)
 
 <br>
 
