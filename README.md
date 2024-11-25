@@ -23,6 +23,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-20232a?style=for-the-badge&logo=Redux)
 ![Vue](https://img.shields.io/badge/vue-20232a?style=for-the-badge&logo=vuedotjs)
 ![Nuxtjs](https://img.shields.io/badge/Nuxt-20232a?style=for-the-badge&logo=nuxtdotjs)
+![Angular](https://img.shields.io/badge/angular-20232a?style=for-the-badge&logo=vuedotjs)
 ![NodeJS](https://img.shields.io/badge/-node-20232a?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-express-20232a?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-20232a?style=for-the-badge&logo=mongodb)
