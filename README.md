@@ -47,12 +47,12 @@
 
 ### Моя статистика:
 
-<a href="https://github-readme-stats-git-master-yuris-projects-b18b3bde.vercel.app">
+<span>
   <img  align="center" height="200" src="https://github-readme-stats-git-master-yuris-projects-b18b3bde.vercel.app/api?username=KarpovYuri&show_icons=true&hide_border=trueshow_icons=true&theme=react" />
-</a>
-<a href="https://github-readme-stats-git-master-yuris-projects-b18b3bde.vercel.app">
+</span>
+<span>
   <img align="center" height="200" src="https://github-readme-stats-git-master-yuris-projects-b18b3bde.vercel.app/api/top-langs/?username=KarpovYuri&langs_count=8&layout=compact&theme=react&card_width=320" />
-</a>
+</span>
 
 <br>
 <br>
