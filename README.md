@@ -30,6 +30,7 @@
 ![Docker](https://img.shields.io/badge/Docker-20232a?style=for-the-badge&logo=Docker)
 ![Nginx](https://img.shields.io/badge/nginx-20232a?style=for-the-badge&logo=nginx)
 ![Jest](https://img.shields.io/badge/-jest-20232a?style=for-the-badge&logo=jest)
+![Go](https://img.shields.io/badge/go-20232a?style=for-the-badge&logo=go)
 
 ### Мои инструменты:
 
