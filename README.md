@@ -56,9 +56,11 @@
   <img align="center" height="200" src="https://github-readme-stats-git-master-yuris-projects-b18b3bde.vercel.app/api/top-langs/?username=KarpovYuri&langs_count=8&layout=compact&theme=react" />
 </span>
 
-<br>
-<br>
-<br>
+[//]: # (<br>)
+
+[//]: # (<br>)
+
+[//]: # (<br>)
 
 <a href="mailto:yurick@bk.ru">
   <img align="right" alt="Карпов Юрий | Email" src="https://raw.githubusercontent.com/KarpovYuri/KarpovYuri/master/assets/email.png" />
