@@ -56,8 +56,8 @@
 <a href="https://github-readme-stats.vercel.app/api?username=KarpovYuri&show_icons=true&hide_border=trueshow_icons=true&theme=react">
   <img  align="center" height="167" src="https://github-readme-stats.vercel.app/api?username=KarpovYuri&show_icons=true&hide_border=trueshow_icons=true&theme=react" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=KarpovYuri&layout=compact&theme=react">
-  <img align="center" height="167" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarpovYuri&langs_count=6&layout=compact&theme=react" />
+<a href="https://github-readme-stats-git-master-yuris-projects-b18b3bde.vercel.app/api/top-langs/?username=KarpovYuri&layout=compact&theme=react">
+  <img align="center" height="167" src="https://github-readme-stats-git-master-yuris-projects-b18b3bde.vercel.app/api/top-langs/?username=KarpovYuri&langs_count=6&layout=compact&theme=react" />
 </a>
 
 <br>
